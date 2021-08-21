@@ -1,6 +1,6 @@
 
 var temperatures = [17, 25, 21, 34]
-console.log(tmeperatures[1])
+console.log(temperatures[1])
 
 
 for (var i = 1; i < 4; i++) {
@@ -50,3 +50,41 @@ document.write("You still need: " + (flourNeeded - flourYouhave) )
 
 
 } 
+
+
+
+var u = 12;
+var b = 12;
+var z = 12 + 12;
+console.log(z)
+
+
+function IsJustFine(a, h) {
+    return a * h;
+    }
+    document.write(IsJustFine(7,6))
+
+
+
+    var e = true;
+
+    while (e === true) {
+
+        console.log(e);
+
+    }
+
+
+
+    for (i = 3; i > 0; i--) {
+
+        console.log("We Will")
+    }
+        console.log("Rock you!")
+
+
+
+
+        
+        
+   
