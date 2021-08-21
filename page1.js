@@ -99,3 +99,58 @@ function IsJustFine(a, h) {
         var no = ["dishes", "windows", "vacuum"];
         ya.pop()
         console.log(ya.length)
+
+
+
+        var ok = ["dishes", "windows", "vacuum"];
+
+         if (ok > 0) {
+
+            console.log("Uhh, work harder!")
+
+         }
+
+         var friends = ["John", "Jenna", "Jennie"];
+
+
+
+         for (var i = 0; i < friends.length; i++) {
+
+            console.log(i)
+
+         }
+
+
+         var friends = ["John", "Jenna", "Jennie"];
+
+         
+
+         for (var i = 0; i < friends.length; i++) {
+
+            console.log(friends[i])
+
+         }
+
+
+
+         function greetUser() {
+
+            console.log("Good Morning, Anna!")
+            console.log("Welcome back!")
+
+         }
+
+
+         greetUser();
+
+
+
+         function isfreezing (temperature) {
+             
+            var temperature = 3;
+            return temperature;
+
+
+         }
+
+         console.log(temperature)
