@@ -85,6 +85,17 @@ function IsJustFine(a, h) {
 
 
 
+        var tasks = ["dishes", "windows", "vacuum"];
+        console.log(tasks.length)
+
+    
         
-        
+        var ya = ["dishes", "windows", "vacuum"];
+        ya.push("hello")
+        console.log(ya.length)  
    
+
+
+        var no = ["dishes", "windows", "vacuum"];
+        ya.pop()
+        console.log(ya.length)
