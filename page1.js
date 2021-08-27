@@ -154,3 +154,45 @@ function IsJustFine(a, h) {
          }
 
          console.log(temperature)
+
+
+
+
+
+         function displayName (name) {
+
+            console.log(name)
+
+         }
+
+
+            displayName ("John")
+
+
+            function calculator (a, b) {
+
+                var c = a+ b
+                return a + b;
+
+            }
+
+
+            calculator (7, 6)
+            console.log
+
+
+
+            const getRatio = (nom, denom) => {
+
+               return nom / denom }
+
+               console.log(getRatio(20, 4));
+
+
+
+
+               var el = document.querySelector("div.user-panel.main input[name='login']");
+
+         
+            
+            
